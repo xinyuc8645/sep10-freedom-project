@@ -1,7 +1,6 @@
-# Entry 2
+# Entry 2:Researches and in-depth explaination of hardwares and softwares based on my topic(Animation)
 ##### X/X/XX
-
-Text
+<h1></h1>
 
 [Previous](entry01.md) | [Next](entry03.md)
 
