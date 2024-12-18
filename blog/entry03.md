@@ -1,5 +1,5 @@
 # Entry 3: Researching for Part A and Part B for Freedom Project
-##### X/
+##### 12/18/24
 
 Text
 
