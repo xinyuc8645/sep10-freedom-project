@@ -1,5 +1,5 @@
-# Entry 3
-##### X/X/XX
+# Entry 3: Researching for Part A and Part B for Freedom Project
+##### X/
 
 Text
 
