@@ -1,4 +1,4 @@
-# Entry 3: BrainStorming for Part A and B
+# Entry 3:Part B For Freedom Project
 ##### 12/18/24
 
 ### BrainStormming For Part B
