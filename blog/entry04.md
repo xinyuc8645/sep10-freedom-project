@@ -3,7 +3,6 @@
 # Context On How I Decided On Aframe
 
 
-
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
