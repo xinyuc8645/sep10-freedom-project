@@ -1,5 +1,5 @@
-# Entry 4
-##### X/X/XX
+# Entry 4: Tool For Freedom Project Aframe and How I Tinkered With It
+##### 2/24/25
 
 Text
 
