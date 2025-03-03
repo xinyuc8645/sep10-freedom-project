@@ -5,6 +5,10 @@ Well, well we are back again times past by face don't you think so? 2 months ago
 # Finally *Real* Tinkering
 
 # Engieering Designing Process
+For this entry and currently right now, I am on the process of creating the model for my topic of Animation. Last time, on entry 3 I said that I was stil somewhere between both planning and creating. But right now I can for sure say I am on the process of creating. Since I tinkered with my tools, and I generally get an idea of what my tool is both able to provide and create. However I do not think by the next entry I do I will be on the next step of the enigeering desinging process. I will be more likely still on the creating process because it's not simple to create an 3d model from right out of your mind and just design it. So it takes quite a while. Actually now that I think about it, I take back what I said about being "for sure on the process of creating an model". Because if you really think about it to design a model to suit your animation topic it still requires planning. Like how you want certain part of your model to fit, and how you want to make sure that it actually can be used and its not just some random model with no consideration at all. So yea I think I'm still in between both planning and creating. But this time like actually in between both process. Last time, was more shifted towards the planning side.
+
+# Skills
+
 
 
 
