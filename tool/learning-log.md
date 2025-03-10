@@ -7,7 +7,7 @@
 ## 2/24/25:First Tool learning log
 <ul>
   <li><h2>Finalized on the tool Aframe,</h2></li>
-  <li><h2>Installed/Put in the code that is require in order for Aframe to work for my IDE through the [Aframe website](</li>
+  <li><h2>Installed/Put in the code that is require in order for Aframe to work for my IDE through the <a href= "https://aframe.io/docs/1.7.0/introduction/installation.html"> Aframe Website</a></li>
 </ul>
 
 ### X/X/XX:
