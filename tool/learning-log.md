@@ -94,6 +94,7 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>Ending off, I say this is some good progress but this video did have lot's of information since it was 9 minutes long</li>
 <li>Next learning log hoping, to finish at least 2 and a half video, since the next one is 4 minute but the one after that is 20 minutes long</li>
 <li>No questions I have nor do am I struggling on anything</li>
+<li>Small correction its 4/41 video since, 2 were introductions video and the other 2 is the real lessons</li>
 
         
   
