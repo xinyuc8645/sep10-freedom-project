@@ -102,8 +102,15 @@ I won't get that much in detail but if you would like to know more watch the vid
 
 ### 3/17/25: Third Learning Log
 <ul>
-  <li>Starting from the video <a href="</li>
+  <li>Starting from the video <a href="https://www.youtube.com/watch?v=Kt5c3Z8odAo&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6">Rotation And Relative Positioning</li>
+    <li>I know what you're wondering. "This is the same isn't it?" Well not quite, its different last one was focused on relative positioning, but now its relative rotation. These are 2 seperate thing</li>
+    <li>Apparently, the same thing with the relative positioning, it also follows the right hand thumb rule</li>
+    <li> From my understanding of the rotation code, the following:</li>
+
+
+            if you do changed the x value of the rotation; like rotation="10 0 0" it changed the item/object like slanted.
 </ul>
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
