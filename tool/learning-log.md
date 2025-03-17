@@ -109,6 +109,10 @@ I won't get that much in detail but if you would like to know more watch the vid
 
 
             if you do changed the x value of the rotation; like rotation="10 0 0" it changed the item/object like slanted.
+
+
+
+<li>Use the following image as reference,
 </ul>
 
 
