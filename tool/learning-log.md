@@ -100,6 +100,10 @@ I won't get that much in detail but if you would like to know more watch the vid
   
 </ul>
 
+### 3/17/25: Third Learning Log
+<ul>
+  <li>Starting from the video <a href="</li>
+</ul>
 
 <!-- 
 * Links you used today (websites, videos, etc)
