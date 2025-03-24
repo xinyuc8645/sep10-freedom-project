@@ -115,7 +115,41 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>Use the following image as reference,<a href="rotationm.jpeg">Reference</a> Look at the demonstration at the end of the image where it shows x, that's basically what happen to my object after I change the X position</li>
 <li>Now moving on to changing the y positioning:</li>
 
-            if you do changed the y value of the rotation; like rotation="0 10 0" it changes
+            if you do changed the y value of the rotation; like rotation="0 10 0" it changes like also slanted like the x value changes but different way refer to the middle of the image as demonstration
+
+<li>For some reason when I changed the y value the shape of my square only seem to be moving like forward like not slanted. I'm not sure the reason why but I think it might have to be something to do with the open spaces</li>
+<li> So I tested it again with the x value added in</li>
+
+              rotation="40 10 0" I tested between both 10 for y value and 30 for y value. And yea the shape seems to be moving forward from my starting point of the camera
+
+<li>Changing the z position makes it so that apparently the shape/object is moving towards like to the right?, I don't know how I can clearly explain this but from my POV my camera when I changed from 10-->40 z positioning value, the object is more and more turning its side. This is kind of confusing since when I try with 100 for z positioning its different again? I'm not sure if these have a stable value and a stable like movement?? Also refer to the first image in the reference as demonstration </li>
+<li>Codes here</li>
+
+              rotation="40 10 10" --> (shape turning side) rotation="40 10 40" --> (turning more)rotation="40 10 70" -->(I thought it completely flip itself over but apparently not?
+              rotation="40 10 100" (Can't describe this shape)
+
+<li>Moving on to the next video tutorial <a href="https://www.youtube.com/watch?v=K4LEMBjaV9E&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=6">"Scale, Relative Scale, And Reflection"</a></li>
+<li>Likewise, with the scaling code, it also has 3 positions. The x, y, and z. However I think changing the value are different.</li>
+<li>Code used</li>
+
+               <a-cylinder color="skyblue"
+      height="2"
+      radius="2"
+      segements-radial="6"
+      open-ended="true"
+      side="double"
+      position="0 1 0"
+      rotation="0 -90 90"
+      scale="2 1 0">
+    </a-cylinder>
+    *This code is from the video tutorial*
+<li>Okay so for the scaling code to work, I actually had to put 1 for the y value. The reason being apparently if you set it to 0 you cannot see like its straight out flat. Well that's what I saw on my end so result may differ. The x value doubles the shape size??? Because I kept the y value at 1 and changed the x value from 1-->2-->5 and it becomes longer and longer as a flat bed. Not sure if that's right</li>
+<li>When I changed the y position the shape of apparently widens itself? Because I put the same code for y value also and refreshed everytime and the flat bed double.</li>
+<li>Okay so I'm sure what's entirely going on for the z value because when I put one that flat bed of my shape, becomes a oval??? The bigger the number that I had apply to the z value its become more oval and oval like its getting bigger and fatter. But all these value have something to do with the positoning also.</li>
+<li>Next learning log I'll be finishing up this video and diving a-bit more deeper</li>
+<li>End result:Half way through the video, still a-bit confusing but continuing to practice on my IDE</li>
+<li>6.5/41 videos covered</li>
+
 
 </ul>
 
