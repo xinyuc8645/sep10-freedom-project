@@ -3,6 +3,7 @@
 ## Tool: Aframe
 
 ---
+<em><h1>Important: Upon further looking through the playlist of the Aframe Tutorial there will be only 27 availability of video's, since the other 13 video are hidden by the creator</h1></em>
 
 ## 2/24/25+3/3/25:First Tool learning log
 
@@ -152,6 +153,13 @@ I won't get that much in detail but if you would like to know more watch the vid
 
 
 </ul>
+
+### 3/24/25: Fourth Learning Log
+<li><em>Conituning off from learning three</em></li>
+<li>In the video, at the <a href="https://youtu.be/K4LEMBjaV9E?si=MXRhnvJNGYGQ9uDu&t=170">2:50 video mark</a> there is a 3D representation of the right thumb hand rule. It goes in more deeper to the x y and z positions.</li>
+<li>TLDR;Basically for the rest of the video he continues to explain more about the x y and z postioning base on visual and 3d representation</li>
+<li>Starting at <a href="https://www.youtube.com/watch?v=XUwvKXPlnJY&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=7"> "Images textures and Materials".</a></li>
+<li></li>
 
 
 <!-- 
