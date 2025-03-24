@@ -112,7 +112,11 @@ I won't get that much in detail but if you would like to know more watch the vid
 
 
 
-<li>Use the following image as reference,<a href="rotationm.jpeg">Reference</a></li>
+<li>Use the following image as reference,<a href="rotationm.jpeg">Reference</a> Look at the demonstration at the end of the image where it shows x, that's basically what happen to my object after I change the X position</li>
+<li>Now moving on to changing the y positioning:</li>
+
+            if you do changed the y value of the rotation; like rotation="0 10 0" it changes
+
 </ul>
 
 
