@@ -1,3 +1,6 @@
+<em><h1>Important: Upon further looking through the playlist of the Aframe Tutorial there will be only 27 availability of video's, since the other 13 video are hidden by the creator</h1></em>
+
+
 # Tool Learning Log
 
 ## Tool: Aframe
