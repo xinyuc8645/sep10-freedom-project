@@ -161,7 +161,10 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>In the video, at the <a href="https://youtu.be/K4LEMBjaV9E?si=MXRhnvJNGYGQ9uDu&t=170">2:50 video mark</a> there is a 3D representation of the right thumb hand rule. It goes in more deeper to the x y and z positions.</li>
 <li>TLDR;Basically for the rest of the video he continues to explain more about the x y and z postioning base on visual and 3d representation</li>
 <li>Starting at <a href="https://www.youtube.com/watch?v=XUwvKXPlnJY&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=7"> "Images textures and Materials".</a></li>
-<li></li>
+<li>For in order to put images/textures into your desire object, of course you have to download them first. In the video, he mentioned a very useful website where you can download textures. <a href="https://www.textures.com/">Go here to download the textures.</a></li>
+<li>Although this website is free <em>Some of the textures are preminum meaning not free</em></li>
+<li>Putting texture on an object is simple to be honest. In my case I downloaded 3 texture to test it out. I downloaded an texture of an solar cell, an texture of an gold blanket, and a pavement painted concrete. </li>
+<li>If you want to see the texture out, here: <a href="TCom_SolarCells_header.jpg">Solar Cells</a></li>
 
 
 <!-- 
