@@ -190,7 +190,7 @@ I won't get that much in detail but if you would like to know more watch the vid
     </a-cylinder>
 <li>You can see there's a different shape for the texture. I know you can't see what it actually look like, but you can already get some idea from the code itself.From my perspective, the cone has the solar cell which I don't think its the best fit. The box has gold alike stuff. It looks like a golden box. And the cylinder has the concrete and I think it fits perfectly because it represents a stand like those thing you would see in a fancy building.</li>
 <li>Okay, so according to the video, that section was focused on texture, now for material its kind of complicated I rewatched the video 3+ for that section and I still don't understand it. But basically there is something called the <em>Normal Maps</em></li>
-<li>According from google, one of the sources normal maps is the following "Normal maps are a type of Bump Map. They are a special kind of texture that allow you to add surface detail such as bumps, grooves, and scratches to a model which catch the light as if they are represented by real geometry." The name and the function align up but it is what it is. I actually tested this code partially in my IDE.</li>
+<li>According from google, one of the sources normal maps is the following <strong>"Normal maps are a type of Bump Map. They are a special kind of texture that allow you to add surface detail such as bumps, grooves, and scratches to a model which catch the light as if they are represented by real geometry."</strong> The name and the function align up but it is what it is. I actually tested this code partially in my IDE.</li>
 
 
                 
