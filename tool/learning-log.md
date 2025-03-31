@@ -157,7 +157,7 @@ I won't get that much in detail but if you would like to know more watch the vid
 </ul>
 
 ### 3/24/25: Fourth Learning Log
-<li><em>Conituning off from learning three</em></li>
+<li><em>Continuing  off from learning three</em></li>
 <li>In the video, at the <a href="https://youtu.be/K4LEMBjaV9E?si=MXRhnvJNGYGQ9uDu&t=170">2:50 video mark</a> there is a 3D representation of the right thumb hand rule. It goes in more deeper to the x y and z positions.</li>
 <li>TLDR;Basically for the rest of the video he continues to explain more about the x y and z postioning base on visual and 3d representation</li>
 <li>Starting at <a href="https://www.youtube.com/watch?v=XUwvKXPlnJY&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=7"> "Images textures and Materials".</a></li>
@@ -165,8 +165,80 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>Although this website is free <em>Some of the textures are preminum meaning not free</em></li>
 <li>Putting texture on an object is simple to be honest. In my case I downloaded 3 texture to test it out. I downloaded an texture of an solar cell, an texture of an gold blanket, and a pavement painted concrete. </li>
 <li>If you want to see the texture out, here: <a href="../img-texture-folder/TCom_SolarCells_header.jpg">Solar Cells</a>,<a href="../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg">Pavement Concrete</a>, and lastly <a href="../img-texture-folder/TCom_Plastic_SpaceBlanketFolds_header.jpg">Plastic Space Blanket</a></li>
+<li>To be fair and honest, putting texture on an object is easy. All you have to do is basically upload the texture file on the github repoistory's and put:</li>
+
+              src="TCom_SolarCells_header.jpg" (or whatever you named your texture)
+
+<li>For example, I downloaded and uploaded 3 texture which I assume you have already seen. But how does that look in Aframe? Well</li>
+
+             <a-cone color="white"
+       src="../img-texture-folder/TCom_SolarCells_header.jpg"
+       width="4" height="4" depth="4"
+       position="-2 1.5 -9">
+      </a-cone>
+
+      <a-box color="white"
+      width="4" height="4" depth="4"
+      src="../img-texture-folder/TCom_Plastic_SpaceBlanketFolds_header.jpg"
+      position="-2 1.5 -4">
+     </a-box>
+
+     <a-cylinder color="white"
+     src="../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg"
+     width="4" height="4" depth="4"
+     position="-2 1.5 1">
+    </a-cylinder>
+<li>You can see there's a different shape for the texture. I know you can't see what it actually look like, but you can already get some idea from the code itself.From my perspective, the cone has the solar cell which I don't think its the best fit. The box has gold alike stuff. It looks like a golden box. And the cylinder has the concrete and I think it fits perfectly because it represents a stand like those thing you would see in a fancy building.</li>
+<li>Okay, so according to the video, that section was focused on texture, now for material its kind of complicated I rewatched the video 3+ for that section and I still don't understand it. But basically there is something called the <em>Normal Maps</em></li>
+<li>According from google, one of the sources normal maps is the following "Normal maps are a type of Bump Map. They are a special kind of texture that allow you to add surface detail such as bumps, grooves, and scratches to a model which catch the light as if they are represented by real geometry." The name and the function align up but it is what it is. I actually tested this code partially in my IDE.</li>
 
 
+                
+     <a-box color="white"
+     src="../img-texture-folder/TCom_Plastic_SpaceBlanketFolds_header.jpg"
+     width="4" height="4" depth="4"
+     repeat="1 1"
+     normal-map="#Gold"
+     normal-texture-repeat="1 1"
+     normal-scale="1 -1"
+     roughness="0.1"
+     position="-2 1.5 -4">
+    </a-box>
+
+<li>So one thing I noticed when I add the normal map related stuff is that, there is reflection and bumpness among my texture. Because when I look around the box very closely there is light reflecting off of the texture. And when I look closely I can also seem how rough or smooth the texture is.</li>
+<li>Also if you want to try this, make sure to add:</li>
+
+            <a-assets>
+      <img id="Gold" src="../img-texture-folder/TCom_Plastic_SpaceBlanketFolds_header.jpg">
+    </a-assets>
+
+<li><em>Give an id and search for the src</em></li>
+<li>For the rest, since I don't exactly know how to explain the material stuff I recommend you to watch the material section part of the video <a href="https://youtu.be/XUwvKXPlnJY?si=rNGjIgjuQN4LBNPp&t=403">Second Section</a></li>
+<li>Moving on, to the next video, I'm going to actually do some skipping around here, starting at <a href="https://www.youtube.com/watch?v=Qv1PYATnsl0&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=10">"Ground"</a></li>
+<li>This video basically talks about the ground pretty much. Like I'm serious, its all about g-ro-und...</li>
+<li>Basically all you're creating is the ground, with codes to make the ground have texture and having reflection and stuff related to normal maps.</li>
+<li>My code for testing this:</li>
+
+                  <a-assets>
+      <img id="concrete" src="../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg">
+    </a-assets>
+    <a-scene>
+<a-plane material="color: #FFFFFF;
+          src: ../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg"
+          repeat:3 1;
+          normal-map: #concrete-NRM;
+          normal-texture-repeat: 3 1;
+          rotation="-90 0 0"
+          scale="20 20 4">
+        </a-plane>
+
+<li>Pretty self-explanatory to be honest. Just a flat out floor with the concrete texture and I think there is some reflection. </li>
+<li>That's all, uh no question but there are lot's of concern</li>
+<li>Some unanswered concern: What is really the concept of normal map? (Still don't quite understand it)</li>
+<li>Next learning log hoping to cover fully 1 and a half video because its 19 minute long for the second video</li>
+<li>8/27 video covered</li>
+
+                  
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
