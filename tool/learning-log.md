@@ -15,8 +15,8 @@
   <li>Have a little bit of time lefted in class,started watching through the playlist of Aframe Tutorial's ranging from least complex-->most complex.
     <a href="https://www.youtube.com/watch?v=ktjMCanKNLk&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV">The playlist of the aframe tutorials</a></li>
   You can create any shape by using the:
-  
-     <a-(shape)> , </a-(shape)>. Like, <a-box>, </a-box> and <a-cylinder>,</a-cylinder> 
+
+     <a-(shape)> , </a-(shape)>. Like, <a-box>, </a-box> and <a-cylinder>,</a-cylinder>
   <li> Was very fun see to see different shapes and the fact you can see the whole thing of the shape since by doing http-server it gives you 360 view meaning you can rotate it however you want.</li>
   <li> Changed colors of the shape, changed box color from white-->blue. Also changed the width and the height to both 5 and 3.</li>
   <li>Final result of the blue box looks weird but I guess progress is progress</li>
@@ -35,7 +35,7 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li> Some examples I did were:</li>
 
 
-             <a-box color= "skyblue"                                 
+             <a-box color= "skyblue"
             height="3"
             position="0 10 0"
             width="2"
@@ -45,7 +45,7 @@ I won't get that much in detail but if you would like to know more watch the vid
           <a-cone color="red">
 
           </a-cone>
-          and 
+          and
            <a-box color= "skyblue"
             height="3"
             position="20 0 0"
@@ -99,8 +99,8 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>No questions I have nor do am I struggling on anything</li>
 <li>Small correction its 4/41 video since, 2 were introductions video and the other 2 is the real lessons</li>
 
-        
-  
+
+
 </ul>
 
 ### 3/17/25: Third Learning Log
@@ -164,10 +164,10 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>For in order to put images/textures into your desire object, of course you have to download them first. In the video, he mentioned a very useful website where you can download textures. <a href="https://www.textures.com/">Go here to download the textures.</a></li>
 <li>Although this website is free <em>Some of the textures are preminum meaning not free</em></li>
 <li>Putting texture on an object is simple to be honest. In my case I downloaded 3 texture to test it out. I downloaded an texture of an solar cell, an texture of an gold blanket, and a pavement painted concrete. </li>
-<li>If you want to see the texture out, here: <a href="TCom_SolarCells_header.jpg">Solar Cells</a></li>
+<li>If you want to see the texture out, here: <a href="../img-texture-folder/TCom_SolarCells_header.jpg">Solar Cells</a></li>
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
