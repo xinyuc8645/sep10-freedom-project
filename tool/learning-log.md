@@ -223,14 +223,15 @@ I won't get that much in detail but if you would like to know more watch the vid
       <img id="concrete" src="../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg">
     </a-assets>
     <a-scene>
-<a-plane material="color: #FFFFFF;
+    
+            <a-plane material="color: #FFFFFF;
           src: ../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg"
           repeat:3 1;
           normal-map: #concrete-NRM;
           normal-texture-repeat: 3 1;
           rotation="-90 0 0"
           scale="20 20 4">
-        </a-plane>
+            </a-plane>
 
 <li>Pretty self-explanatory to be honest. Just a flat out floor with the concrete texture and I think there is some reflection. </li>
 <li>That's all, uh no question but there are lot's of concern</li>
