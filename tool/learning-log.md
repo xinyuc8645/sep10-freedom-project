@@ -239,6 +239,59 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>Next learning log hoping to cover fully 1 and a half video because its 19 minute long for the second video</li>
 <li>8/27 video covered</li>
 
+### 3/31/25: Fifth Learning Log
+<li>Starting off at <a href="https://www.youtube.com/watch?v=tzI5tu-0nm0&list=PL8MkBHej75fJD-HveDzm4xKrciC5VfYuV&index=11">Sky and 360 Image</a></li>
+<li>Overall, summary basically is like a contiunation of the previous video, but instead of ground its the sky. I found the sky code more interesting. I wish I could show what the preview look like but I can only describe it.</li>
+<li>I used the solar cells for my sky, and to be frankly, the sky looked like a huge dome with my brick plate. The sky's shape is also like spiral, because the texture of the solar cells is moving in a spiral direction from top to bottom, bottom to top</li>
+
+
+                          <html>
+                          <head>
+                          <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+                            </head>
+                            <body>
+                          <a-assets>
+                          <img id="concrete" src="../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg">
+                        <img id="solar" src="../img-texture-folder/TCom_SolarCells_header.jpg">
+                          </a-assets>
+                        <a-scene>
+                          <a-sky src="../img-texture-folder/TCom_SolarCells_header.jpg">
+                              </a-sky>
+                          <a-plane material="color: #FFFFFF;
+                          src: ../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg"
+                          repeat:3 1;
+                        normal-map: #concrete-NRM;
+                          normal-texture-repeat: 3 1;
+                          rotation="-90 0 0"
+                        scale="20 20 4">
+                        </a-plane>
+
+<li>The spiral siutation may <em><strong>VARY</strong></em> because in the video, the coder used an image of an sky, so maybe that's the reason why</li>
+<li>By using the </li>
+
+                raidus="" code you can change how big or small you want the sky to be. In the video he changed the sky because, he mentions how his sky were to big and if someone were to view this, some would be afraid of heights therefore he changed it 
+
+<li>I did mine in order to see what's the difference</li>
+
+                    <a-sky src="../img-texture-folder/TCom_SolarCells_header.jpg"
+                      radius="10">
+                        </a-sky>
+                      </a-sky>
+<li>1/2 size compared to my concrete plate</li>
+
+                          <a-scene>
+                          <a-sky src="../img-texture-folder/TCom_SolarCells_header.jpg"
+                            radius="15.5">
+                            </a-sky>
+                            </a-sky>
+                      <a-plane material
+
+<li>Fully covers my concrete plate but over by like 2.5 radius</li>
+<li>Also added the "side="double" code so that when I look from an different angle I don't just see the inside of that sky like an curved hollow</li>
+<li>And lastly of course if you want to fill like you want to make it so you are on a piece of land, change the scale of your ground to 10000 and 10000 but do becareful that sometimes the texture may be stretched too far to the point where the texture is very smudghed and weird, depending on the texture you use.</li>
+<li>And for the 360 VR preview you have to download an 360 sky from an website basically</li>
+<li><em><strong>That's all for this learning log, I know I know this learning log is shorter than the previous one's and I promise to finish the 19 min video. However I couldn't because I had another homework to do. I apologize. But you can see the 19 min in the next learning log, also planning to revise the whole learning log so you don't have to scroll for an eternity when you want to find the newest learning log</em></strong> </li>
+<li>9/27 videos covered</li>
                   
 <!--
 * Links you used today (websites, videos, etc)
