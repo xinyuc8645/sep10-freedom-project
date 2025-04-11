@@ -1,4 +1,4 @@
-# Entry 5
+# Entry 5: More In-depth Tinkering for my tool Aframe Along With Code Snippets
 ##### X/X/XX
 
 Text
