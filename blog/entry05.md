@@ -9,6 +9,27 @@ To start off, as you may know if you want to tinker firstly, you want to have th
 
                 <a-box>, <-a-box> (box) <a-cylinder>,</a-cylinder> (cylinder), and etc. 
 of course there are many other shapes, but those are the simple basic ones you want to use. After I type 
+
+                                <html>
+                                <head>
+                                        <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+                                    </head>
+                                  <body>
+                              <a-scene>
+                              <!--box>
+                              <a-box>
+                              </a-box>
+                              </a-scene>
+                              </body>
+                              </html>
+I opened up http-server and preview it, it was an <em>box</em>with with plain white color, nothing special at all. However I didn't want it to be simply just be white and colorless. So I used some CSS skill from some couples of lesson back, and changed the box color, changing the color of your shape is easy. Simply add the following:
+
+                             <a-scene>
+                              <!--box>
+                              <a-box color="red">           
+                              </a-box>
+                              </a-scene>
+      
 # Engineering Designing Process
 Base on the last blog 4, I said that I was still in-between the creating and the planning section. But I can confidently said that I'm offically moving out of the territory of the planning section into the creating section. Since planning, I associate that with like learning your tool since you need to watch video and make a plan for yourself of how you want to tinker with those tools. The reason why I'm saying I'm at the creating section is because right now, I tinkered with my tools Aframe to the point where I understand most of it's concept (Maybe except for some concept like NRM maps and etc). I think I can fully stand in the creating section if I watch alll the tutorial for Aframe in my playlist over the break. So currently, I am in the creating section of the engineering designing process, but only like 50% of the way of there, so expect the next blog to have fully 100% on the creating section.
 # Skills
