@@ -29,7 +29,7 @@ I opened up http-server and preview it, it was an <em>box</em>with with plain wh
                               <a-box color="red">           
                               </a-box>
                               </a-scene>
-Simple right? Just add the color="(color)" code to the shape. Now when I refreshed the page the box will look red! The same goes for other shape. Moving on
+Simple right? Just add the color="(color)" code to the shape. Now when I refreshed the page the box will look red! The same goes for other shape. Moving on to positioning and relative positioning. Basically for this video I watch, it just talks about changing the positioning of your shape and some basic rules to the positioning. For example 
 # Engineering Designing Process
 Base on the last blog 4, I said that I was still in-between the creating and the planning section. But I can confidently said that I'm offically moving out of the territory of the planning section into the creating section. Since planning, I associate that with like learning your tool since you need to watch video and make a plan for yourself of how you want to tinker with those tools. The reason why I'm saying I'm at the creating section is because right now, I tinkered with my tools Aframe to the point where I understand most of it's concept (Maybe except for some concept like NRM maps and etc). I think I can fully stand in the creating section if I watch alll the tutorial for Aframe in my playlist over the break. So currently, I am in the creating section of the engineering designing process, but only like 50% of the way of there, so expect the next blog to have fully 100% on the creating section.
 # Skills
