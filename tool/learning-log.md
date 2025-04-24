@@ -193,7 +193,7 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>According from google, one of the sources normal maps is the following <strong>"Normal maps are a type of Bump Map. They are a special kind of texture that allow you to add surface detail such as bumps, grooves, and scratches to a model which catch the light as if they are represented by real geometry."</strong> The name and the function align up but it is what it is. I actually tested this code partially in my IDE.</li>
 
 
-                
+
      <a-box color="white"
      src="../img-texture-folder/TCom_Plastic_SpaceBlanketFolds_header.jpg"
      width="4" height="4" depth="4"
@@ -223,7 +223,7 @@ I won't get that much in detail but if you would like to know more watch the vid
       <img id="concrete" src="../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg">
     </a-assets>
     <a-scene>
-    
+
             <a-plane material="color: #FFFFFF;
           src: ../img-texture-folder/TCom_Pavement_PaintedConcrete3_header.jpg"
           repeat:3 1;
@@ -269,7 +269,7 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>The spiral siutation may <em><strong>VARY</strong></em> because in the video, the coder used an image of an sky, so maybe that's the reason why</li>
 <li>By using the </li>
 
-                raidus="" code you can change how big or small you want the sky to be. In the video he changed the sky because, he mentions how his sky were to big and if someone were to view this, some would be afraid of heights therefore he changed it 
+                raidus="" code you can change how big or small you want the sky to be. In the video he changed the sky because, he mentions how his sky were to big and if someone were to view this, some would be afraid of heights therefore he changed it
 
 <li>I did mine in order to see what's the difference</li>
 
@@ -292,7 +292,9 @@ I won't get that much in detail but if you would like to know more watch the vid
 <li>And for the 360 VR preview you have to download an 360 sky from an website basically</li>
 <li><em><strong>That's all for this learning log, I know I know this learning log is shorter than the previous one's and I promise to finish the 19 min video. However I couldn't because I had another homework to do. I apologize. But you can see the 19 min in the next learning log, also planning to revise the whole learning log so you don't have to scroll for an eternity when you want to find the newest learning log</em></strong> </li>
 <li>9/27 videos covered</li>
-                  
+
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
