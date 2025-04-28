@@ -2,7 +2,7 @@
 
 ## Wireframes
 * Uploaded and added the wireframes for both the laptop and the mobile version in the prep folder, you can either go through the wireframes manually or you can go through here: <a href="mobile-wireframe1.png">Mobiles wireframe 1</a>, <a href="mobile-wireframe2.png"> Mobile wireframe 2</a>, <a href="mobile-wireframe3.png">Mobile wireframe 2</a> (Done 4/28/25)
-* <a href="laptop-wireframe1.png">Laptop wireframe 1</a> <a href=">laptop-wireframe2.png">Laptop wifreframe 2 </a> <a href="laptop-wireframe 3">Laptop wireframe 3</a> (Done 4/28/25)
+* <a href="laptop-wireframe1.png">Laptop wireframe 1</a> <a href="laptop-wireframe2.png">Laptop wifreframe 2 </a> <a href="laptop-wireframe 3">Laptop wireframe 3</a> (Done 4/28/25)
 
 ## Colors
 * `#ABC123`
