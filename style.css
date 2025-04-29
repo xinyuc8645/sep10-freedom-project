@@ -1,0 +1,30 @@
+body{
+    background-color: darkcyan;
+}
+#intro{
+    text-align:center;
+    padding: 65px;
+    margin: -1px;
+}
+#intro-information{
+    padding: 10px;
+    text-align:center;
+    color: black;
+    font-size: 22px;
+}
+#part-a{
+    text-align:center;
+}
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    font-family: monospace;
+}
+#part-1{
+    text-align:left;
+    color:black;
+    font-size: 22px;
+    
+}
