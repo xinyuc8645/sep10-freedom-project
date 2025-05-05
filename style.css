@@ -1,6 +1,10 @@
-body{
-    background-color: darkcyan;
-}
+body {
+
+    background: linear-gradient(to right, lightblue, blue, darkblue);
+    height: 100vh;
+    margin: 0;
+  }
+
 #intro{
     text-align:center;
     padding: 65px;
@@ -8,6 +12,7 @@ body{
 }
 #intro-information{
     padding: 10px;
+    margin: 10px;
     text-align:center;
     color: black;
     font-size: 22px;
@@ -23,8 +28,66 @@ body{
     font-family: monospace;
 }
 #part-1{
-    text-align:left;
     color:black;
-    font-size: 22px;
-    
+    font-size: 20px;
+
 }
+#adobe{
+    height: 300px;
+    width: 600px;
+
+}
+.imgs{
+    width: 500px;
+    height: 200px;
+}
+.carousel-inner {
+    height: 550px;
+  }
+
+  .carousel-item img {
+    width: 85%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+#A{
+    padding: 50px;
+
+}
+#cards{
+    padding: 50px;
+}
+  .section-title h2,
+  #title-1 h3,
+  .section-content p {
+    color: white;
+  }
+
+  
+
+  #title-1 h3 {
+    font-size: 26px;
+    margin-bottom: 25px;
+  }
+
+  .section-content {
+    font-size: 18px;
+    line-height: 1.8;
+    padding: 30px 15px;
+  }
+
+  .section-content .col-lg-4 {
+    margin-bottom: 30px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  .intro-text h1,
+  .intro-text p {
+    color: white;
+  }
