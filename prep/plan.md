@@ -13,7 +13,8 @@
 ## Fonts
 * No fonts for now (5/2/25)
 
-## Timeline
+
+#### MVP/Timeline
 * Navbar required, max effort,  MVP atleast, put an Navbar, make it fixed top, change the button on top to the correct section for each part and make sure it works.
 * Beneath that, add the introduction for my FP project, afterward copy and paste the introduction paragraph.
 * Then make a container, within that container needs to fit my Content Part A, and will have 3 smaller paragraphs.
@@ -28,8 +29,10 @@
 
 
 
-#### MVP
 
+---
+
+#### Beyond MVP
 * Task/Timeline
 * Fixing the image with the right size, width, height and etc.
 * Text Fonts/Text Colors maybe
@@ -37,12 +40,6 @@
 * Make the website look fancy
 * The website is able to shrink its proportion base on the device
 * Make the navbar goes into 3 lines when in mobile device
-
----
-
-#### Beyond MVP
-
-* Task
 
 
 
