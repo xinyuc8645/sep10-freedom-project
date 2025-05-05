@@ -6,15 +6,15 @@
 
 ## Colors
 * `#ABC123`
-* Skyblue for background probably.
-* All text black color for now
+* Skyblue for background probably.Background not blue, but instead linear gradient from different type of blue-->to dark blue(5/2/25)
+* All text black color for now, changed to white because for my blue background(5/2/25)
 
 
 ## Fonts
-* [Text](URL)
+* No fonts for now (5/2/25)
 
 ## Timeline
-* Navbar required, max effort, not MVP put an Navbar, make it fixed top, change the button on top to the correct section for each part and make sure it works.
+* Navbar required, max effort,  MVP atleast, put an Navbar, make it fixed top, change the button on top to the correct section for each part and make sure it works.
 * Beneath that, add the introduction for my FP project, afterward copy and paste the introduction paragraph.
 * Then make a container, within that container needs to fit my Content Part A, and will have 3 smaller paragraphs.
 * Underneath that 3 paragraphs will be provided with 2 evenly spreaded out image.
