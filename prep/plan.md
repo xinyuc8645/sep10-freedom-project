@@ -54,7 +54,7 @@
 | -------- | ------- | ------- |
 | Leo  |  I like how you have alot of text and the background is nice | A grow is that u should add cards to make it more neat.
 |  Bah | I like the color scheme, it is consistent throughout and matches with the navbar as well, there are also many a-frame models that are cool.  | You could try to summarize your information into smaller parts, more specifics and less text would make it a lot more interesting and easier to read.
-|   |   |
+| Jehan   | I like the in-depth context that you wrote about animation and how you connect it back to where it started and how it evolved over time. I also like how you incooporated your tool with bootstrap components, such as taking screenshots of A-frame and putting it into your cards.   | Something that you could work on is making it easier to read, since the background and the white text make it blend in sort of. You can consider finding contrasting colors for your text and background. 
 |   |   |
 |   |   |
 |   |   |
