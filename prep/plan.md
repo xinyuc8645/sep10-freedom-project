@@ -52,7 +52,7 @@
 ### Peer Feedbacks
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
+| Leo  |  I like how you have alot of text and the background is nice | A grow is that u should add cards to make it more neat.
 |   |   |
 |   |   |
 |   |   |
