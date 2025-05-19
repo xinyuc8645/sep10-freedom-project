@@ -14,10 +14,14 @@ Alright, so for my website I wouldn't say its really "special" I would much rath
 Base off of this code, if you copy and paste it into jsbin, you should be able to see that from the right, it shifts from white-> to lightblue-> then to blue-> then lastly to darkblue. This made my website's background a whole lot more interesting and not plain. Once again the color shift's from right to left. As for the navbar it's nothing to special:
 
                     *CSS*
-                       .navbar {
-                      z-index: 1050;
-                          }
-                      
+                          .navbar {
+                      position: fixed;
+                        width: 100%;
+                        top: 0;
+                      z-index: 1000;
+                    font-family: monospace;
+Okay, so I'm just only going to show the CSS section because the navbar is just an code but different color for navbar from the bootstrap website. Some of the stuff that I modify were I made the navbar fixed top, meaning if you scroll down the navbar is still at the top of the screen and still be able to function and navigate like usual. And some normal width and top, with z-index making so that it fits the whole screen. Also needing to emphaize something that the navbar is in an container fluid I believe. And lastly font-family monospace so it wouldn't be too plain.
+# Part 2
 
                           
 # Engieering Design Process
