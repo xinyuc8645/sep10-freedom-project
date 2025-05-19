@@ -5,6 +5,16 @@ Base on the last entry; 5 in that entry I included how I tinker with my Aframe t
 # Content Part 1
 Alright, so for my website I wouldn't say its really "special" I would much rather call it "normal" I think my website is just simple and not too complicated. I also did not use any bootstrap templates for my website; the reason being that one if you use a bootstrap template, there are many codes you could change, but at the same time you wouldn't understand any of them. And two I want to start my website off base off of scratch instead of an pre-existing template, so I don't rely too much on other's exisiting codes. Now there were 4 components I used, it was navbar, cards, carousel and accordion. Of course, most of these key functions are from the bootstrap websites. However I did adjust and modify them to my liking. Which I'll show later. As for my entirely of my website, I planned to have an blue background, but it would be too boring. So instead, I use linear gradient. This code actually saved me because I rememeber using this code back for one of the presentation we had to do, and my section was base off of linear gradient. The linear gradient code I used for my background were:
 
+                  body {
+
+                    background: linear-gradient(to right, lightblue, blue, darkblue);
+                      height: 100vh;
+                        margin: 0;
+                            }
+Base off of this code, if you copy and paste it into jsbin, you should be able to see that from the right, it shifts from white-> to lightblue-> then to blue-> then lastly to darkblue. This made my website's background a whole lot more interesting and not plain. Once again the color shift's from right to left. As for the navbar it's nothing to special:
+
+                      
+
                           
 # Engieering Design Process
 As for this entry, I wanna still say that I'm more leaning towards the creating type. The reason is because, if you don't know the whole reason that we're even doing a website for Freedom Project is for the FP fair thats upcoming. And since I create an website, that is MVP I think its pretty decent. I wouldn't say its super good, because there are still bugs, organization stuff I have to fix and etc. But I defeintely want to shift towards away from the planning side. And lean towards more of creating. And hopefully by next entry I'll be on testing for my <em>Beyond MVP</em> website.
