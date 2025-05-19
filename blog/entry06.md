@@ -13,6 +13,10 @@ Alright, so for my website I wouldn't say its really "special" I would much rath
                             }
 Base off of this code, if you copy and paste it into jsbin, you should be able to see that from the right, it shifts from white-> to lightblue-> then to blue-> then lastly to darkblue. This made my website's background a whole lot more interesting and not plain. Once again the color shift's from right to left. As for the navbar it's nothing to special:
 
+                    *CSS*
+                       .navbar {
+                      z-index: 1050;
+                          }
                       
 
                           
