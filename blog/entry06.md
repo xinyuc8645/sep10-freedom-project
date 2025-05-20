@@ -22,7 +22,17 @@ Base off of this code, if you copy and paste it into jsbin, you should be able t
                     font-family: monospace;
 Okay, so I'm just only going to show the CSS section because the navbar is just an code but different color for navbar from the bootstrap website. Some of the stuff that I modify were I made the navbar fixed top, meaning if you scroll down the navbar is still at the top of the screen and still be able to function and navigate like usual. And some normal width and top, with z-index making so that it fits the whole screen. Also needing to emphaize something that the navbar is in an container fluid I believe. And lastly font-family monospace so it wouldn't be too plain.
 # Part 2
+I covered about the navbar and the background, now I wanted to focus more sort of on the paragraphs for my introduction, as you can see for my informations for my website, you notice how it was side by side. The question is how did I do that? Well:
 
+                          <div class="section-content row">
+                            <div class="col-lg-4 mb-4">
+                              <p>
+                            The website URL does not seem to end with typical extensions like .com, .edu, .gov, but instead ends with .html, so its reliability is                               uncertain.
+                            Upon visiting the site, it appears very clean and easy to navigate, offering a family-friendly experience with no inappropriate content.
+                          The site provides a basic overview of the software, explaining how it can be animated. The site is divided into sections, with the first                               explaining how you can animate in real-time using your device's webcam. Essentially, it's a website telling you about the software                             that hosts another site. At the bottom of the page, there’s a payment bundle labeled “Creative Cloud All Apps.”
+                          </p>
+                          </div>
+From this code you can see, when on large size screen the paragraphs only takes 4 columns. I know that in total its 12 column's. Meaning since I had 3 paragraphs side by side, I basically did the same for the other two paragraphs. And that's all pretty much to it. Since I gaved it a class and made the text white. Nothing that special.
                           
 # Engieering Design Process
 As for this entry, I wanna still say that I'm more leaning towards the creating type. The reason is because, if you don't know the whole reason that we're even doing a website for Freedom Project is for the FP fair thats upcoming. And since I create an website, that is MVP I think its pretty decent. I wouldn't say its super good, because there are still bugs, organization stuff I have to fix and etc. But I defeintely want to shift towards away from the planning side. And lean towards more of creating. And hopefully by next entry I'll be on testing for my <em>Beyond MVP</em> website.
