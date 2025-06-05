@@ -1,5 +1,5 @@
 # Entry 7
-##### X/X/XX
+##### 
 
 Text
 
