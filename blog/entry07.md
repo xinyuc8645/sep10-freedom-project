@@ -5,8 +5,8 @@ Keeping the context short again: Alright, so this will be like a transition from
 # Content/Presentation
 # Content Part 2/Elevator Pitch
 # Enigerring Designing Process
+
 # Skills
-# Takeaways
 Text
 
 [Previous](entry06.md) | [Next](entry08.md)
